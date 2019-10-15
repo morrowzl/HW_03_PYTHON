@@ -1,0 +1,9 @@
+-------------------------
+Paragraph Analysis
+-------------------------
+Word Count: 130
+Sentence Count: 5
+Avg Word Length: 6.407692307692308 letters per word
+Avg Sentence Length: 191.6 words per sentence
+-------------------------
+
